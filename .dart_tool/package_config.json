@@ -56,6 +56,12 @@
       "languageVersion": "2.18"
     },
     {
+      "name": "flutter_svg",
+      "rootUri": "file:///C:/Users/Quang%20Thai/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_svg-0.22.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "flutter_test",
       "rootUri": "file:///C:/flutter/packages/flutter_test",
       "packageUri": "lib/",
@@ -96,6 +102,24 @@
       "rootUri": "file:///C:/Users/Quang%20Thai/AppData/Local/Pub/Cache/hosted/pub.dev/path-1.8.3",
       "packageUri": "lib/",
       "languageVersion": "2.12"
+    },
+    {
+      "name": "path_drawing",
+      "rootUri": "file:///C:/Users/Quang%20Thai/AppData/Local/Pub/Cache/hosted/pub.dev/path_drawing-0.5.1+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "path_parsing",
+      "rootUri": "file:///C:/Users/Quang%20Thai/AppData/Local/Pub/Cache/hosted/pub.dev/path_parsing-0.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "petitparser",
+      "rootUri": "file:///C:/Users/Quang%20Thai/AppData/Local/Pub/Cache/hosted/pub.dev/petitparser-5.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
     },
     {
       "name": "sky_engine",
@@ -146,13 +170,19 @@
       "languageVersion": "2.14"
     },
     {
+      "name": "xml",
+      "rootUri": "file:///C:/Users/Quang%20Thai/AppData/Local/Pub/Cache/hosted/pub.dev/xml-5.4.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
       "name": "eccomerce_app",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2023-07-26T08:31:24.408212Z",
+  "generated": "2023-07-26T09:56:40.875239Z",
   "generator": "pub",
   "generatorVersion": "3.0.5"
 }

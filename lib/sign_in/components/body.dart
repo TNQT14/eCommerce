@@ -1,4 +1,5 @@
 
+import '../../components/no_account_text.dart';
 import '../../constants.dart';
 import 'sign_in_form.dart';
 import '../../../size_config.dart';
@@ -30,7 +31,7 @@ class Body extends StatelessWidget {
                 SizedBox(height: SizeConfig.screenHeight! * 0.08),
                 SignInForm(),
                 SizedBox(height: SizeConfig.screenHeight! * 0.08),
-                // NoAccountText(),
+                NoAccountText(),
                 SizedBox(height: getProportionateScreenHeight(20)),
               ],
             ),
